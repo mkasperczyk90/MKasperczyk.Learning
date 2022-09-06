@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKasperczyk.Learning.CleanCodeTips", "MKasperczyk.Learning.CleanCodeTips\MKasperczyk.Learning.CleanCodeTips.csproj", "{A355DE7F-D39D-45CB-A80F-DA8E972A05DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKasperczyk.Learning.InterestingPackages", "MKasperczyk.Learning.InterestingPackages\MKasperczyk.Learning.InterestingPackages.csproj", "{1B96EFE6-20D2-4B42-8065-462AECD78DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A355DE7F-D39D-45CB-A80F-DA8E972A05DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A355DE7F-D39D-45CB-A80F-DA8E972A05DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A355DE7F-D39D-45CB-A80F-DA8E972A05DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A355DE7F-D39D-45CB-A80F-DA8E972A05DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B96EFE6-20D2-4B42-8065-462AECD78DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B96EFE6-20D2-4B42-8065-462AECD78DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B96EFE6-20D2-4B42-8065-462AECD78DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B96EFE6-20D2-4B42-8065-462AECD78DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE7E25F0-80E9-40B2-9307-EF9658AC1F6E}
+	EndGlobalSection
+EndGlobal
