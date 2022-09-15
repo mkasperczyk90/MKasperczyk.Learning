@@ -19,6 +19,15 @@
         <li>Soak testing - Really long testing with avarage of user count</li>
       </ol>
     </ol>
+  <li>Frontend</li>
+    <ol>
+      <li>React</li>
+      <ol>
+        <li>Some learning project from courses (FirstProj, Airbnb-triathlon, meme-generator, note-app, tenzies-game)</li>
+        <li>From learning</li>
+        <li>UseEffect Learning</li>
+      </ol>
+    </ol>
 </ol>
 
 # Short description of projects: 
