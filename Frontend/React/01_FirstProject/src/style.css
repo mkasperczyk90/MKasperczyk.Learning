@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, sens-serif;
+  height: 100vh;
+  background-color:#5F6F94;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color:#25316D;
+  height: 90px;
+  padding: 30px 25px;
+}
+
+.nav--logo_text, .nav--title {
+  margin: 0;
+}
+
+.nav--logo_text {
+  margin-right: auto;
+  color:#FEF5AC;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.nav--title {
+  font-weight: 600;
+}
+
+.nav--icon {
+  height: 50px;
+}
+
+main {
+  padding: 57px 27px;
+  color: #97D2EC;
+  background-image: url(../src/images/logo-tri.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
+  background-size: 30em;
+}
+
+.main--title {
+  margin: 0;
+  font-size: 39px;
+}
+
+.main--facts {
+  margin-top: 46px;
+}
+
+.main--facts > li {
+  line-height: 19px;
+  padding-block: 10px;
+  max-width: 450px;
+}
+
+.main--facts > li::marker {
+  font-size: 1.4em;
+  color:#25316D;
+}
